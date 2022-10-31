@@ -1,2 +1,2 @@
 print("Max is poor.")
-x=2
+print("Fuck off again")
